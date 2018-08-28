@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igornfaustino/minicurso-MERN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igornfaustino/minicurso-MERN/issues"
+  },
+  "homepage": "https://github.com/igornfaustino/minicurso-MERN#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
